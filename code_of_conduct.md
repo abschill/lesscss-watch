@@ -1,8 +1,6 @@
 # code of conduct
 
-i pledge allegiance to the flag and the republic for which it stands one nation under foobar indivisible with liberty and justice for all true gamers
-
-i wonder if anybody actually reads this lol
+i pledge allegiance to the flag and the republic for which it stands one nation indivisible with liberty and justice for all
 
 ```vba
 Now, this is a story all about how
