@@ -1,7 +1,7 @@
 {
   "name": "lesscss-watch",
   "description": "watchmode utility for less compiler",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "bin/index.js",
   "license": "ISC",
   "bin": "bin/index.js",
